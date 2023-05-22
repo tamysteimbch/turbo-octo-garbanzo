@@ -1,0 +1,23 @@
+{
+  "name": "embarcaaitest",
+  "version": "1.0.0",
+  "description": "automação para o embarca ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamysteimbch/turbo-octo-garbanzo.git"
+  },
+  "author": "Tamiris Steimbch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamysteimbch/turbo-octo-garbanzo/issues"
+  },
+  "homepage": "https://github.com/tamysteimbch/turbo-octo-garbanzo#readme",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^12.12.0"
+  }
+}
